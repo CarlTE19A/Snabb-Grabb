@@ -1,0 +1,58 @@
+{
+  "Angle": 0.5,
+  "Creation Limit": 25,
+  "Explostion Fall Off Distance": 1000,
+  "Explostion Position": [
+    -2970.0,
+    790.0,
+    0.0,
+    0.0
+  ],
+  "Explostion Strengt": 1000,
+  "Gravity Force": 481.0,
+  "Matrix": {
+    "row0": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "row1": [
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "row2": [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "row3": [
+      -2970.0,
+      890.0,
+      0.0,
+      1.0
+    ]
+  },
+  "Number Of Particles": 10000,
+  "Particle Color": {
+    "w": 1.0,
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "Particle Lifetime": 25.0,
+  "Particle Spread": 30.0,
+  "Particle System Type": 0,
+  "Particle TrailEffect": 0,
+  "Particle size": 10.0,
+  "Particle spawn frequency": 0.05000000074505806,
+  "Particle texture": "Particles/spraksprite_round_c.dds",
+  "Particle velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

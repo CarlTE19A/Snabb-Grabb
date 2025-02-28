@@ -1,0 +1,74 @@
+{
+    "Ballon": {
+        "FalloffTime": 0.20000000298023224,
+        "Force": 0.800000011920929,
+        "Multiplier": 0.6000000238418579
+    },
+    "Bomb": {
+        "Drag": 0.019999999552965164,
+        "HorizontalMultiplier": 0.004999999888241291,
+        "MaxForce": 1.0,
+        "MinForce": 1.0,
+        "Time": 1.0,
+        "VerticalForce": 2.0
+    },
+    "Boost": {
+        "FalloffTime": 0.20000000298023224,
+        "Multiplier": 1.0
+    },
+    "CameraYOffset": 35.0,
+    "CayoteTime": 0.10000000149011612,
+    "Dash": {
+        "DistanceAhead": 100.0,
+        "FalloffTime": 0.10000000149011612,
+        "Height": 200.0,
+        "Speed": 3.0999999046325684,
+        "Time": 0.4000000059604645,
+        "Width": 200.0
+    },
+    "DirectionalDash": {
+        "DistanceAhead": 100.0,
+        "FalloffTime": 0.20000000298023224,
+        "Height": 100.0,
+        "Speed": 3.799999952316284,
+        "Time": 0.4000000059604645,
+        "Width": 100.0
+    },
+    "DoubleJump": {
+        "Force": 0.800000011920929
+    },
+    "Grappling": {
+        "MaxDistance": 3000.0,
+        "ReleaseDistance": 150.0,
+        "Speed": 2.5999999046325684,
+        "Time": 0.30000001192092896
+    },
+    "Gravity": -1.100000023841858,
+    "Invicibility": 0.5,
+    "JumpForce": 0.699999988079071,
+    "MaxHealth": 3,
+    "MaxHorizontalVelocity": 1.100000023841858,
+    "MaxVerticalVelocity": 1.0,
+    "RotationSpeed": 40.0,
+    "Speed": 0.8999999761581421,
+    "Stomp": {
+        "Force": 2.0,
+        "Radius": 650.0
+    },
+    "Sword": {
+        "Cooldown": 0.10000000149011612,
+        "Damage": 25.0,
+        "DistanceAhead": 100.0,
+        "Height": 200.0,
+        "Width": 200.0
+    },
+    "Teleporting": {
+        "FalloffTime": 0.4000000059604645,
+        "MaxDistance": 100000.0,
+        "Percent": 0.6499999761581421,
+        "Radius": 100.0,
+        "ShowLength": 500.0,
+        "Speed": 2.0,
+        "Time": 0.25
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "buttonComponent": [
+        {
+            "function": 0,
+            "id": 33,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/PauseMenuButtons/ui_pauseContinue.dds"
+            ]
+        },
+        {
+            "function": 3,
+            "id": 34,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/PauseMenuButtons/ui_pauseSettings.dds"
+            ]
+        },
+        {
+            "function": 5,
+            "id": 44,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/PauseMenuButtons/ui_pauseQuitGame.dds"
+            ]
+        }
+    ],
+    "elements": [
+        {
+            "active": true,
+            "id": 46,
+            "name": "button",
+            "position": {
+                "x": 400.0,
+                "y": 350.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 33,
+            "name": "back",
+            "position": {
+                "x": 400.0,
+                "y": 350.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 34,
+            "name": "settings",
+            "position": {
+                "x": 400.0,
+                "y": 500.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 44,
+            "name": "quit",
+            "position": {
+                "x": 400.0,
+                "y": 650.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteComponent": [
+        {
+            "id": 33,
+            "path": "../../Unity/Assets/Assets/UI_Assets/PauseMenuButtons/ui_pauseContinue.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 34,
+            "path": "../../Unity/Assets/Assets/UI_Assets/PauseMenuButtons/ui_pauseSettings.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 44,
+            "path": "../../Unity/Assets/Assets/UI_Assets/PauseMenuButtons/ui_pauseQuitGame.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteMorphComponent": [
+        {
+            "id": 46,
+            "morphRadius": {
+                "w": -20.0,
+                "x": 20.559999465942383,
+                "y": 15.199999809265137,
+                "z": -11.039999961853027
+            },
+            "morphSpeed": {
+                "w": 1.5,
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.5
+            },
+            "path": "../../Unity/Assets/Assets/UI_Assets/PauseMenuButtons/ui_pauseMenuButton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

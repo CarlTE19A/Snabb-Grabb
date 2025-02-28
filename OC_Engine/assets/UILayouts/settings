@@ -1,0 +1,217 @@
+{
+    "buttonComponent": [
+        {
+            "function": 5,
+            "id": 40,
+            "paths": [
+                "../../unity/assets/assets/UI_Assets/ui_backButton.dds"
+            ]
+        },
+        {
+            "function": 0,
+            "id": 92,
+            "paths": [
+                "../../unity/assets/assets/UI_Assets/ui_leftResolutionArrow.dds"
+            ]
+        },
+        {
+            "function": 1,
+            "id": 93,
+            "paths": [
+                "../../unity/assets/assets/UI_Assets/ui_rightResolutionArrow.dds"
+            ]
+        }
+    ],
+    "elements": [
+        {
+            "active": true,
+            "id": 39,
+            "name": "bg",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 41,
+            "name": "button",
+            "position": {
+                "x": 862.0,
+                "y": 688.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.8999999761581421,
+                "y": 0.8999999761581421
+            }
+        },
+        {
+            "active": true,
+            "id": 40,
+            "name": "back",
+            "position": {
+                "x": 861.0,
+                "y": 685.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 92,
+            "name": "leftArrow",
+            "position": {
+                "x": 1038.0,
+                "y": 235.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 93,
+            "name": "rightArrow",
+            "position": {
+                "x": 1373.0,
+                "y": 235.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 94,
+            "name": "resText",
+            "position": {
+                "x": 1092.0,
+                "y": 210.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteComponent": [
+        {
+            "id": 39,
+            "path": "../../unity/assets/assets/ui_assets/ui_settingsscreen.dds",
+            "position": {
+                "x": 960.0,
+                "y": 540.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 40,
+            "path": "../../unity/assets/assets/UI_Assets/ui_backButton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 92,
+            "path": "../../unity/assets/assets/ui_assets/ui_leftresolutionarrow.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 93,
+            "path": "../../unity/assets/assets/ui_assets/ui_rightresolutionarrow.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteMorphComponent": [
+        {
+            "id": 41,
+            "morphRadius": {
+                "w": 10.0,
+                "x": -10.0,
+                "y": 10.0,
+                "z": -10.0
+            },
+            "morphSpeed": {
+                "w": -1.0,
+                "x": -1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "path": "../../unity/assets/assets/ui_assets/pausemenubuttons/ui_pausemenubutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "textComponent": [
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 94,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            },
+            "text": "1920x1080"
+        }
+    ]
+}

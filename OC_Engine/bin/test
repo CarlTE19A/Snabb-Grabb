@@ -1,0 +1,50 @@
+{
+ "game": 1,
+ "lvl": 2,
+ "score" : [
+ {
+  "usr" : "Emanuel",
+  "timems" : 12126
+ },
+ {
+  "usr" : "natta",
+  "timems" : 12579
+ },
+ {
+  "usr" : "testPlayer",
+  "timems" : 13973
+ },
+ {
+  "usr" : "Name",
+  "timems" : 14022
+ },
+ {
+  "usr" : "cale",
+  "timems" : 14216
+ },
+ {
+  "usr" : "cale2",
+  "timems" : 14802
+ },
+ {
+  "usr" : "Testare",
+  "timems" : 14901
+ },
+ {
+  "usr" : "Isak",
+  "timems" : 20546
+ },
+ {
+  "usr" : "IsakWihoo!",
+  "timems" : 21376
+ },
+ {
+  "usr" : "Snabbest",
+  "timems" : 28256
+ },
+ {
+  "usr" : "fLOK",
+  "timems" : 28551
+ }
+ ]
+}

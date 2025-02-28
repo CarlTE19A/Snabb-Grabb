@@ -1,0 +1,242 @@
+{
+    "elements": [
+        {
+            "active": true,
+            "id": 5,
+            "name": "cardSlot1",
+            "position": {
+                "x": 1549.0,
+                "y": 848.0
+            },
+            "rotation": -0.05000000074505806,
+            "size": {
+                "x": 0.7300000190734863,
+                "y": 0.7300000190734863
+            }
+        },
+        {
+            "active": true,
+            "id": 4,
+            "name": "cardSlot0",
+            "position": {
+                "x": 1723.0,
+                "y": 804.0
+            },
+            "rotation": 0.20000000298023224,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 7,
+            "name": "playerCard",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 8,
+            "name": "turrets",
+            "position": {
+                "x": 253.0,
+                "y": 142.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 9,
+            "name": "crossair",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 10,
+            "name": "ammo",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 11,
+            "name": "cardCounter",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteComponent": [
+        {
+            "id": 5,
+            "path": "../../unity/assets/assets/ui_assets/weapon cards/ui_stompcard.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 2,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 4,
+            "path": "../../unity/assets/assets/ui_assets/weapon cards/ui_swordcard.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 2,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 7,
+            "path": "../../unity/assets/assets/ui_assets/player cards/ui_hpfull.dds",
+            "position": {
+                "x": 183.0,
+                "y": 801.0
+            },
+            "rotation": -0.20000000298023224,
+            "shaderType": 2,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 8,
+            "path": "../../unity/assets/assets/ui_assets/ui_enemycounter.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 2,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 9,
+            "path": "../../unity/assets/assets/ui_assets/ui_crosshair.dds",
+            "position": {
+                "x": 960.0,
+                "y": 540.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 0.7300000190734863,
+                "y": 0.7300000190734863
+            }
+        },
+        {
+            "id": 10,
+            "path": "../../unity/assets/assets/ui_assets/ammocounters/ui_arammocounter.dds",
+            "position": {
+                "x": 1537.0,
+                "y": 623.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 0.7400000095367432,
+                "y": 0.7400000095367432
+            }
+        },
+        {
+            "id": 11,
+            "path": "../../unity/assets/assets/ui_assets/ui_abilitycounter.dds",
+            "position": {
+                "x": 1538.0,
+                "y": 682.0
+            },
+            "rotation": -0.05000000074505806,
+            "shaderType": 0,
+            "size": {
+                "x": 0.5299999713897705,
+                "y": 0.5299999713897705
+            }
+        }
+    ],
+    "textComponent": [
+        {
+            "color": {
+                "a": 1.0,
+                "b": 0.9313725233078003,
+                "g": 0.8798086047172546,
+                "r": 0.3469819128513336
+            },
+            "id": 8,
+            "position": {
+                "x": 172.0,
+                "y": -72.0
+            },
+            "rotation": 15.0,
+            "size": {
+                "x": 0.8700000047683716,
+                "y": 0.8700000047683716
+            },
+            "text": "10"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 10,
+            "position": {
+                "x": 1545.0,
+                "y": 597.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.7400000095367432,
+                "y": 0.7400000095367432
+            },
+            "text": "50"
+        }
+    ]
+}

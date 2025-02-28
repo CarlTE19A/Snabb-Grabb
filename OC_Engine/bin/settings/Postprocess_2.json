@@ -1,0 +1,20 @@
+{
+    "Blackpoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "Bloomblending": 0.5,
+    "Contrast": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+    },
+    "Exposure": 0.0,
+    "Saturation": 1.0,
+    "Tint": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+    }
+}

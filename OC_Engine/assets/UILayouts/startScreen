@@ -1,0 +1,628 @@
+{
+    "buttonComponent": [
+        {
+            "function": 6,
+            "id": 74,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/LevelSelect/ui_leaderboardTop.dds"
+            ]
+        }
+    ],
+    "elements": [
+        {
+            "active": true,
+            "id": 72,
+            "name": "bg",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 73,
+            "name": "lvlname",
+            "position": {
+                "x": 967.0,
+                "y": 175.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 74,
+            "name": "lb",
+            "position": {
+                "x": 1521.0,
+                "y": 799.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 75,
+            "name": "text",
+            "position": {
+                "x": 971.0,
+                "y": 308.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 76,
+            "name": "0",
+            "position": {
+                "x": 1143.0,
+                "y": 673.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 77,
+            "name": "1",
+            "position": {
+                "x": 1143.0,
+                "y": 717.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 78,
+            "name": "2",
+            "position": {
+                "x": 1143.0,
+                "y": 761.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 79,
+            "name": "3",
+            "position": {
+                "x": 1143.0,
+                "y": 809.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 80,
+            "name": "4",
+            "position": {
+                "x": 1143.0,
+                "y": 857.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 81,
+            "name": "5",
+            "position": {
+                "x": 1143.0,
+                "y": 901.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 82,
+            "name": "6",
+            "position": {
+                "x": 1143.0,
+                "y": 948.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 83,
+            "name": "7",
+            "position": {
+                "x": 1143.0,
+                "y": 991.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 84,
+            "name": "rankbg",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 85,
+            "name": "rank",
+            "position": {
+                "x": 927.0,
+                "y": 867.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 86,
+            "name": "bg1",
+            "position": {
+                "x": 669.0,
+                "y": -94.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 87,
+            "name": "rankS",
+            "position": {
+                "x": 1460.0,
+                "y": 384.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 88,
+            "name": "rankA",
+            "position": {
+                "x": 1461.0,
+                "y": 451.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 89,
+            "name": "rankB",
+            "position": {
+                "x": 1459.0,
+                "y": 513.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteComponent": [
+        {
+            "id": 72,
+            "path": "../../Unity/Assets/Assets/UI_Assets/ui_startScreen.dds",
+            "position": {
+                "x": 960.0,
+                "y": 540.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 74,
+            "path": "../../Unity/Assets/Assets/UI_Assets/LevelSelect/ui_leaderboardYourPos.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 84,
+            "path": "../../Unity/Assets/Assets/UI_Assets/ui_rank.dds",
+            "position": {
+                "x": 921.0,
+                "y": 862.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            }
+        },
+        {
+            "id": 85,
+            "path": "../../Unity/Assets/Assets/UI_Assets/Trophies/ui_trophyB.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "id": 86,
+            "path": "../../Unity/Assets/Assets/UI_Assets/ui_trophyTimes.dds",
+            "position": {
+                "x": 960.0,
+                "y": 540.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 0.9399999976158142,
+                "y": 0.9399999976158142
+            }
+        },
+        {
+            "id": 87,
+            "path": "../../Unity/Assets/Assets/UI_Assets/Trophies/ui_trophyS.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 0.15000000596046448,
+                "y": 0.15000000596046448
+            }
+        },
+        {
+            "id": 88,
+            "path": "../../Unity/Assets/Assets/UI_Assets/Trophies/ui_trophyA.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 0.15000000596046448,
+                "y": 0.15000000596046448
+            }
+        },
+        {
+            "id": 89,
+            "path": "../../Unity/Assets/Assets/UI_Assets/Trophies/ui_trophyB.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 0.15000000596046448,
+                "y": 0.15000000596046448
+            }
+        }
+    ],
+    "textComponent": [
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 0.9690023064613342,
+                "r": 0.7892156839370728
+            },
+            "id": 73,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "text": "LEVEL NAME HERE"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 0.9740484356880188,
+                "r": 0.8235294222831726
+            },
+            "id": 75,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.5899999737739563,
+                "y": 0.5899999737739563
+            },
+            "text": "PRESS SPACE TO START"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 76,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            },
+            "text": "0"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 77,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            },
+            "text": "1"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 78,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            },
+            "text": "2"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 79,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            },
+            "text": "3"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 80,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            },
+            "text": "4"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 81,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            },
+            "text": "5"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 82,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            },
+            "text": "6"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 83,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6399999856948853,
+                "y": 0.6399999856948853
+            },
+            "text": "7"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 87,
+            "position": {
+                "x": 62.0,
+                "y": -23.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6600000262260437,
+                "y": 0.6600000262260437
+            },
+            "text": "00:00"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 88,
+            "position": {
+                "x": 62.0,
+                "y": -22.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6600000262260437,
+                "y": 0.6600000262260437
+            },
+            "text": "00:00"
+        },
+        {
+            "color": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "id": 89,
+            "position": {
+                "x": 62.0,
+                "y": -19.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.6600000262260437,
+                "y": 0.6600000262260437
+            },
+            "text": "00:00"
+        }
+    ]
+}

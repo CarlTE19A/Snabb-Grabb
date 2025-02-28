@@ -1,0 +1,84 @@
+{
+  "Cards": [
+    {
+      "UnUsedName": "Sword",
+      "Accuracy": 1,
+      "TimeBetweenShots": 0.4,
+      "Range": 10,
+      "Speed": 2,
+      "BulletsPerShot": 1,
+      "Ammo": -1,
+      "Damage": 1
+    },
+    {
+      "UnUsedName": "Pistol / Double Jump",
+      "Accuracy": 0.8,
+      "TimeBetweenShots": 0.2,
+      "Range": 40000,
+      "Speed": 30000,
+      "BulletsPerShot": 1,
+      "Ammo": 10,
+      "Damage": 35
+    },
+    {
+      "UnUsedName": "Rifle / Dash",
+      "Accuracy": 0.8,
+      "TimeBetweenShots": 0.5,
+      "Range": 300000,
+      "Speed": 60000,
+      "BulletsPerShot": 1,
+      "Ammo": 5,
+      "Damage": 1000
+    },
+    {
+      "UnUsedName": "Machinegun / Stomp",
+      "Accuracy": 0.8,
+      "TimeBetweenShots": 0.1,
+      "Range": 30000,
+      "Speed": 30000,
+      "BulletsPerShot": 1,
+      "Ammo": 25,
+      "Damage": 25
+    },
+    {
+      "UnUsedName": "Dir Dash",
+      "Accuracy": 0.8,
+      "TimeBetweenShots": 0.5,
+      "Range": 30000,
+      "Speed": 60000,
+      "BulletsPerShot": 1,
+      "Ammo": 5,
+      "Damage": 1000
+    },
+    {
+      "UnUsedName": "Grapple",
+      "Accuracy": 0.8,
+      "TimeBetweenShots": 0.5,
+      "Range": 30000,
+      "Speed": 60000,
+      "BulletsPerShot": 1,
+      "Ammo": 5,
+      "Damage": 1000
+    },
+    {
+      "UnUsedName": "Teleport",
+      "Accuracy": 0.8,
+      "TimeBetweenShots": 0.5,
+      "Range": 30000,
+      "Speed": 20000,
+      "BulletsPerShot": 0,
+      "Ammo": -1,
+      "Damage": 1000
+    },
+    {
+      "UnUsedName": "Bomb ",
+      "Accuracy": 0.8,
+      "TimeBetweenShots": 0.2,
+      "Range": 40000,
+      "Speed": 30000,
+      "BulletsPerShot": 1,
+      "Ammo": 10,
+      "Damage": 35
+    }
+  ]
+}

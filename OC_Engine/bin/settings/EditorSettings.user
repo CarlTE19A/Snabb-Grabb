@@ -1,0 +1,82 @@
+{
+    "clearColor": {
+        "b": 0.9487002491950989,
+        "g": 0.9656862616539001,
+        "r": 0.38816800713539124
+    },
+    "deferred": {
+        "position": {
+            "x": 1001.0,
+            "y": 296.0
+        },
+        "show": false,
+        "size": {
+            "x": 528.0,
+            "y": 528.0
+        }
+    },
+    "demo": {
+        "show": false
+    },
+    "hierarchy": {
+        "position": {
+            "x": 0.0,
+            "y": 19.0
+        },
+        "show": true,
+        "size": {
+            "x": 267.0,
+            "y": 802.0
+        }
+    },
+    "inspector": {
+        "position": {
+            "x": 1562.0,
+            "y": 19.0
+        },
+        "show": true,
+        "size": {
+            "x": 358.0,
+            "y": 734.0
+        }
+    },
+    "lineDrawer": {
+        "show": true
+    },
+    "particle": {
+        "position": {
+            "x": 1335.0,
+            "y": 20.0
+        },
+        "show": false,
+        "size": {
+            "x": 200.0,
+            "y": 200.0
+        }
+    },
+    "uieditor": {
+        "position": {
+            "x": 1335.0,
+            "y": 20.0
+        },
+        "show": false,
+        "size": {
+            "x": 200.0,
+            "y": 200.0
+        }
+    },
+    "uiinspector": {
+        "position": {
+            "x": 1335.0,
+            "y": 20.0
+        },
+        "show": false,
+        "size": {
+            "x": 250.0,
+            "y": 600.0
+        }
+    },
+    "worldSettings": {
+        "show": true
+    }
+}

@@ -1,0 +1,330 @@
+{
+    "buttonComponent": [
+        {
+            "function": 0,
+            "id": 3,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/MainMenuButtons/ui_startButton.dds"
+            ]
+        },
+        {
+            "function": 1,
+            "id": 23,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/MainMenuButtons/ui_levelSelectButton.dds"
+            ]
+        },
+        {
+            "function": 3,
+            "id": 35,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/MainMenuButtons/ui_settingsButton.dds"
+            ]
+        },
+        {
+            "function": 4,
+            "id": 36,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/MainMenuButtons/ui_creditsButton.dds"
+            ]
+        },
+        {
+            "function": 5,
+            "id": 37,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/MainMenuButtons/ui_quitGameButton.dds"
+            ]
+        },
+        {
+            "function": 2,
+            "id": 38,
+            "paths": [
+                "../../Unity/Assets/Assets/UI_Assets/MainMenuButtons/ui_howToPlayButton.dds"
+            ]
+        }
+    ],
+    "elements": [
+        {
+            "active": true,
+            "id": 1,
+            "name": "bg",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 2,
+            "name": "button",
+            "position": {
+                "x": 373.0,
+                "y": 492.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 3,
+            "name": "start",
+            "position": {
+                "x": 607.0,
+                "y": 492.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 23,
+            "name": "levelselect",
+            "position": {
+                "x": 458.0,
+                "y": 591.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 35,
+            "name": "settings",
+            "position": {
+                "x": 450.0,
+                "y": 802.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 36,
+            "name": "credits",
+            "position": {
+                "x": 404.0,
+                "y": 891.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 37,
+            "name": "quit",
+            "position": {
+                "x": 175.0,
+                "y": 970.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 38,
+            "name": "htp",
+            "position": {
+                "x": 446.0,
+                "y": 714.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 32,
+            "name": "textfield",
+            "position": {
+                "x": 936.0,
+                "y": 927.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteComponent": [
+        {
+            "id": 1,
+            "path": "../../unity/assets/assets/ui_assets/ui_mainmenuscreen.dds",
+            "position": {
+                "x": 960.0,
+                "y": 520.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 3,
+            "path": "../../unity/assets/assets/ui_assets/mainmenubuttons/ui_startbutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 2,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 23,
+            "path": "../../unity/assets/assets/ui_assets/mainmenubuttons/ui_levelselectbutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 35,
+            "path": "../../unity/assets/assets/ui_assets/mainmenubuttons/ui_settingsbutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 2,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 36,
+            "path": "../../unity/assets/assets/ui_assets/mainmenubuttons/ui_creditsbutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 37,
+            "path": "../../unity/assets/assets/ui_assets/mainmenubuttons/ui_quitgamebutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 38,
+            "path": "../../unity/assets/assets/ui_assets/mainmenubuttons/ui_howtoplaybutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 32,
+            "path": "../../unity/assets/assets/ui_assets/ui_username.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteMorphComponent": [
+        {
+            "id": 2,
+            "morphRadius": {
+                "w": 15.0,
+                "x": 0.0,
+                "y": 15.0,
+                "z": 0.0
+            },
+            "morphSpeed": {
+                "w": 0.8500000238418579,
+                "x": 0.0,
+                "y": 0.8500000238418579,
+                "z": 0.0
+            },
+            "path": "../../unity/assets/assets/ui_assets/ui_menubutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "textFieldComponent": [
+        {
+            "id": 32,
+            "position": {
+                "x": -142.0,
+                "y": -13.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "text": "natta"
+        }
+    ]
+}

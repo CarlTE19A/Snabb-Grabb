@@ -1,0 +1,171 @@
+{
+  "links": [
+    {
+      "id": 0,
+      "sourcePin": 3,
+      "targetPin": 10
+    },
+    {
+      "id": 1,
+      "sourcePin": 19,
+      "targetPin": 5
+    },
+    {
+      "id": 2,
+      "sourcePin": 4,
+      "targetPin": 15
+    },
+    {
+      "id": 3,
+      "sourcePin": 13,
+      "targetPin": 7
+    },
+    {
+      "id": 4,
+      "sourcePin": 18,
+      "targetPin": 5
+    }
+  ],
+  "nodes": [
+    {
+      "customData": null,
+      "id": 0,
+      "name": "",
+      "position": [
+        606.0,
+        238.0
+      ],
+      "type": "Finish"
+    },
+    {
+      "customData": null,
+      "id": 1,
+      "name": "",
+      "position": [
+        218.0,
+        314.0
+      ],
+      "type": "Tick"
+    },
+    {
+      "customData": null,
+      "id": 2,
+      "name": "",
+      "position": [
+        130.0,
+        470.0
+      ],
+      "type": "GetEnemyList"
+    },
+    {
+      "customData": null,
+      "id": 4,
+      "name": "",
+      "position": [
+        590.0,
+        348.0
+      ],
+      "type": "Finish"
+    },
+    {
+      "customData": null,
+      "id": 5,
+      "name": "",
+      "position": [
+        332.0,
+        318.0
+      ],
+      "type": "CompareInt"
+    }
+  ],
+  "pins": [
+    {
+      "dataType": "Bool",
+      "id": 0,
+      "name": "FinishLine",
+      "node": 0,
+      "role": "Input",
+      "value": false
+    },
+    {
+      "dataType": "Flow",
+      "id": 3,
+      "name": "Tick",
+      "node": 1,
+      "role": "Output",
+      "value": null
+    },
+    {
+      "dataType": "Int",
+      "id": 4,
+      "name": "EnemyListSize",
+      "node": 2,
+      "role": "Output",
+      "value": null
+    },
+    {
+      "dataType": "Flow",
+      "id": 5,
+      "name": "Run",
+      "node": 0,
+      "role": "Input",
+      "value": null
+    },
+    {
+      "dataType": "Flow",
+      "id": 7,
+      "name": "Run",
+      "node": 4,
+      "role": "Input",
+      "value": null
+    },
+    {
+      "dataType": "Bool",
+      "id": 9,
+      "name": "FinishLine",
+      "node": 4,
+      "role": "Input",
+      "value": true
+    },
+    {
+      "dataType": "Flow",
+      "id": 10,
+      "name": "Run",
+      "node": 5,
+      "role": "Input",
+      "value": null
+    },
+    {
+      "dataType": "Flow",
+      "id": 13,
+      "name": "=",
+      "node": 5,
+      "role": "Output",
+      "value": null
+    },
+    {
+      "dataType": "Int",
+      "id": 15,
+      "name": "Compare With",
+      "node": 5,
+      "role": "Input",
+      "value": null
+    },
+    {
+      "dataType": "Flow",
+      "id": 18,
+      "name": ">",
+      "node": 5,
+      "role": "Output",
+      "value": null
+    },
+    {
+      "dataType": "Flow",
+      "id": 19,
+      "name": "<",
+      "node": 5,
+      "role": "Output",
+      "value": null
+    }
+  ]
+}

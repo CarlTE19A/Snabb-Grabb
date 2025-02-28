@@ -1,0 +1,71 @@
+{
+    "buttonComponent": [
+        {
+            "function": 5,
+            "id": 91,
+            "paths": [
+                "../../unity/assets/assets/ui_assets/ui_backbutton.dds"
+            ]
+        }
+    ],
+    "elements": [
+        {
+            "active": true,
+            "id": 90,
+            "name": "bg",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "active": true,
+            "id": 91,
+            "name": "back",
+            "position": {
+                "x": 261.0,
+                "y": 1000.0
+            },
+            "rotation": 0.0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "spriteComponent": [
+        {
+            "id": 90,
+            "path": "../../unity/assets/assets/ui_assets/ui_howtoplayscreen.dds",
+            "position": {
+                "x": 960.0,
+                "y": 540.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        },
+        {
+            "id": 91,
+            "path": "../../unity/assets/assets/ui_assets/ui_backbutton.dds",
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "rotation": 0.0,
+            "shaderType": 0,
+            "size": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}
